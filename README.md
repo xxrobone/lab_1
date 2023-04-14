@@ -23,3 +23,8 @@ creates a "sub/child" branch under a branch
 
 ### restore
 restoring commits to prior versions
+
+Git flow
+
+main - > relaeses - >  < - develop - > features 
+When mergin, tags to know what the current version is called
