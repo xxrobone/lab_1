@@ -1,10 +1,11 @@
 /* ========== HAMBURGER NAV BUTTON ====================== */
 .hamburger_wrapper {
-    position: absolute;
+    position: fixed;
     top: 0;
     bottom: 0;
     right: 0;
     left: auto;
+    z-index: 1000;
     background-color: white;
     border-radius: 50%;
     -webkit-filter: drop-shadow(2px 2px 1px rgba(0,0,0,0.225));
