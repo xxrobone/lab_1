@@ -29,6 +29,9 @@ restoring commits to prior versions
 # main - > relaeses - >  < - develop - > features 
 When mergin, tags to know what the current version is called
 
+## main
+## develop
+## features (sub branches)
 After merge safe to delete feature branch 
 
 Develop - > continue createing new features (branches)
