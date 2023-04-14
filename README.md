@@ -44,4 +44,19 @@ continues work flow adding fixes
 etc...
 
 
+## Trunk base 
+Usually every release goes thru main
+Works best when having automation and tests
+
+### Main branch
+### Develop
+
+Shorter faster changes, not too "long lived"
+Trying to avoid "Merge hell"
+More commits, smaller changes
+
+
+
+
+
 
