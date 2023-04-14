@@ -6,6 +6,8 @@ mergin branches (could be done by pull request on github, then merging the branc
 ### rebase
 Rewrites history, reapplying commits on top of another base branch
 
+## that while merge preserves history as it happened, rebase rewrites it
+
 ### add
 Adding the files to commit
 
