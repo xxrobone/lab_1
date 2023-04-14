@@ -1,7 +1,7 @@
 # Version control
 
 ### merge
-applying commits mergin branches
+mergin branches (could be done by pull request on github, then merging the branches)
 
 ### rebase
 Rewrites history, reapplying commits on top of another base branch
