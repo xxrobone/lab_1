@@ -32,11 +32,13 @@ When mergin, tags to know what the current version is called
 After merge safe to delete feature branch 
 
 Develop - > continue createing new features (branches)
+merge to main v 1.1
 before "closing the branch after merging from new features" see that its a working project
 
 ### hotfixes - > to add in release before mergin to main 
-
-continues work flow
+continues work flow adding fixes
+ merge to develop - > main v 1.2
+etc...
 
 
 
