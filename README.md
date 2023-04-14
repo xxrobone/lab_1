@@ -1,5 +1,5 @@
 # Version control
-
+(pdf documents in teams, comment to myself)
 ### merge
 mergin branches (could be done by pull request on github, then merging the branches)
 
@@ -24,7 +24,19 @@ creates a "sub/child" branch under a branch
 ### restore
 restoring commits to prior versions
 
-Git flow
+## Git flow
 
-main - > relaeses - >  < - develop - > features 
+# main - > relaeses - >  < - develop - > features 
 When mergin, tags to know what the current version is called
+
+After merge safe to delete feature branch 
+
+Develop - > continue createing new features (branches)
+before "closing the branch after merging from new features" see that its a working project
+
+### hotfixes - > to add in release before mergin to main 
+
+continues work flow
+
+
+
