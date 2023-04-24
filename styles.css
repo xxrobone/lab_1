@@ -8,3 +8,21 @@ p {
    .pink {
     color: pink;
    }
+
+   p:nth-last-child(2) {
+    color: magenta;
+    background-color: black;
+    padding: 4px 8px;
+    border-radius: 10px;
+    border: 1px solid aqua;
+    font-size: 2rem;
+    text-transform: uppercase;
+    max-width: 300px;
+   }
+
+   .box {
+    width: 300px;
+    height: 300px;
+    filter: drop-shadow(5px 5px 4px aqua);
+    background-color: black;
+   }

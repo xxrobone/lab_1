@@ -58,7 +58,10 @@ Trying to avoid "Merge hell"
 More commits, smaller changes
 
 
+## git tag <tagname> <sha:id>
+creating a tag 
 
-
+## git cherry-pick <sha:id>
+creating new commit in target branch without modifying the origin
 
 
